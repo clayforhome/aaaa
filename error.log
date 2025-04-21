@@ -1,0 +1,17 @@
+2025-04-21 16:23:21,128 - ERROR - HTTP-ошибка: 403 Client Error: Forbidden for url: https://api.weatherapi.com/v1/current.json?key=fake-key&q=InvalidCity&aqi=no (город: InvalidCity)
+2025-04-21 16:23:21,571 - ERROR - HTTP-ошибка: 403 Client Error: Forbidden for url: https://api.weatherapi.com/v1/current.json?key=fake-key&aqi=no (город: None)
+2025-04-21 17:33:10,713 � ERROR � ������ ��������� ������ ��� : City name cannot be empty
+2025-04-21 17:33:14,057 - ERROR - HTTP-ошибка: 403 Client Error: Forbidden for url: https://api.weatherapi.com/v1/current.json?key=fake-key&q=InvalidCity&aqi=no (город: InvalidCity)
+2025-04-21 17:33:14,467 - ERROR - HTTP-ошибка: 403 Client Error: Forbidden for url: https://api.weatherapi.com/v1/current.json?key=fake-key&aqi=no (город: None)
+2025-04-21 17:55:34,978 — ERROR — Пустое имя города
+2025-04-21 17:55:35,961 — ERROR — Исключение при обработке города Berlin: API crashed
+2025-04-21 17:55:37,261 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&q=InvalidCity&aqi=no (город: InvalidCity)
+2025-04-21 17:55:37,261 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&q=InvalidCity&aqi=no (город: InvalidCity)
+2025-04-21 17:55:38,648 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&aqi=no (город: None)
+2025-04-21 17:55:38,648 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&aqi=no (город: None)
+2025-04-21 18:02:58,772 — ERROR — Пустое имя города
+2025-04-21 18:02:58,776 — ERROR — Исключение при обработке города Berlin: API crashed
+2025-04-21 18:02:59,407 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&q=InvalidCity&aqi=no (город: InvalidCity)
+2025-04-21 18:02:59,407 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&q=InvalidCity&aqi=no (город: InvalidCity)
+2025-04-21 18:02:59,795 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&aqi=no (город: None)
+2025-04-21 18:02:59,795 - ERROR - HTTP-ошибка: 400 Client Error: Bad Request for url: https://api.weatherapi.com/v1/current.json?key=531b1a9739ca4a339e4135620252004&aqi=no (город: None)
